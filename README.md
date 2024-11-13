@@ -10,4 +10,4 @@
 
 # Downloads
 ### [Ankkapeli](https://github.com/hannulatvv/Portfolio/releases/download/Games/AnkkapeliBuild.zip)
-A small game developed in summer 2019 during my studies at Lapland University of Applied Sciences.
+A small game developed in summer of 2019 during my studies at Lapland University of Applied Sciences.
