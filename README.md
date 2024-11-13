@@ -1,4 +1,4 @@
-# About projects I have worked on
+# Links to projects I have worked on
 
 ### [Mining Game for Education And Learning](https://www.migael.fi/)
 
